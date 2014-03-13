@@ -21,4 +21,15 @@ Then:
 #	new file:   NPRs_test.txt
 #
 
+> git commit -m "Step-by-step mini-instructions on how to upload a file..."
+[master f1b6681] Step-by-step mini-instructions on how to upload a file...
+ 1 file changed, 24 insertions(+)
+ create mode 100644 NPRs_test.txt
+
+> git push
+Counting objects: 4, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 573 bytes | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
 
